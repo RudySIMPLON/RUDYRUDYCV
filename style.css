@@ -1,0 +1,82 @@
+
+
+
+
+
+
+
+body{
+	background-color: #D8E6E7;
+
+}
+
+header {
+
+	background-color:#88dba3;
+	border:1px solid black;
+	border-radius:8px;
+	height: 10em;
+}
+
+
+.header{
+
+	text-align: center;
+}
+
+
+h1 {
+	margin-top: 1,5em;
+
+}
+
+
+.block{
+
+	background-color: #88dba3;
+	
+	border :black;
+	width: 25em;
+	border:1px solid black;
+	border-radius:8px;
+	margin: 1em;
+	text-align: center;
+	transition-property: background-color;
+	transition-duration: 0.5s;
+	
+	text-align: center;
+	height:15em;
+}
+
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	font-size: 1em;
+	float : left;
+}
+
+
+.ExpeProjet{
+	margin-left:20em; 
+	display: inline-flex;
+	margin-top: 2em;
+}
+
+.FormaCompet{
+
+	margin-left:20em; 
+	display: inline-flex;
+	margin-top: 2em;
+}
+
+.LangueLoisir{
+	margin-left:20em; 
+	display: inline-flex;
+	margin-top: 2em;
+}
+
+
+
